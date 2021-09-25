@@ -1,6 +1,7 @@
 # bloc_app
 
-A new Flutter project.
+Login with BLoC (Cubit)
+![login](https://user-images.githubusercontent.com/61385522/134784420-7dafa8da-7ada-4d3a-99aa-d0514b3bb4f2.gif)
 
 ## Getting Started
 
